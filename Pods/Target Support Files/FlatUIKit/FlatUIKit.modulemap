@@ -1,0 +1,6 @@
+module FlatUIKit {
+  umbrella header "FlatUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
